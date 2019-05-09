@@ -12,3 +12,6 @@
 |JPype|JPype| https://pypi.python.org/pypi/JPype1 |pip3 install JPype1-py3|
 |코엔엘파이|KoNLPy|http://konlpy-ko.readthedocs.io/ko/v0.4.3/ | pip3 install konlpy|
 |젠심|Gensim|https://radimrehurek.com/gensim/ | pip3 install gensim|
+
+## 오픈데이터셋
+온라인 리뷰 데이터셋 모음 (영어): https://cseweb.ucsd.edu/~jmcauley/datasets.html
